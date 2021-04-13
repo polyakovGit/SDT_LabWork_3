@@ -132,8 +132,6 @@ public:
 	//friend Stack operator--(Stack& stack, T);
 };
 
-
-
 int  main() {
 	Stack<int> stack;
 	stack.Push(2);
